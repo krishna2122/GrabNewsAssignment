@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- App details -->
+    <string name="app_name">Grab News Assignment </string>
+
+    <!-- Content Description -->
+    <string name="news_image_desc">News Image</string>
+    <string name="news_image">news image</string>
+    <!-- Empty -->
+    <string name="no_news">No News</string>
+    <string name="action_settings">Settings</string>
+
+
+
+</resources>
